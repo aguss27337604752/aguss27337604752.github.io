@@ -1,0 +1,59 @@
+*{  padding: 1px;
+    margin: 0px;
+    box-sizing: border-box; 
+    }
+body{
+    background-color: rgb(214, 188, 219);
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Ubuntu', sans-serif;
+   
+   
+    
+
+
+} 
+#marco{
+    border-color: black;
+    border-style: double;
+    border-width: 3px 3px 3px;
+}
+header{ 
+    display: flex;
+    background-color: rgb(153, 127, 202);
+}
+#cuadroderecho{
+    background-color: rgb(153, 127, 202);
+    border-color: black;
+    border-style:ridge ;
+    border-width: 0px 1px 1px;
+    opacity: 95%;
+}
+h1{
+    text-align: center;
+    border-color: black;
+    border-style:solid ;
+    border-width: 3px 3px 3px;
+    background-color:rgb(153, 127, 202);
+   
+}
+h3{
+    
+    border-color: black;
+    border-style:solid ;
+    border-width: 0px 0px 2px;
+    background-color:rgb(218, 195, 219) ;
+}
+
+#imagen{
+    border-radius: 70%;
+    width: 200px;
+    height: 200px;
+    align-items: center;
+}
+#cuadroizquierdo{
+    border-color: black;
+    border-style:ridge ;
+    border-width: 0px 0px 1px;
+    opacity: 95%;
+}
